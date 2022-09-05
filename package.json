@@ -1,0 +1,11 @@
+{
+  "name": "moviewale",
+  "version": "1.0.0",
+  "description": "to store movies, lol!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vuld0, machi, sani",
+  "license": "ISC"
+}
